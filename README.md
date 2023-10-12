@@ -77,7 +77,7 @@ Here are the steps you can follow:
 Install Node.js and npm:  
 Download and install Node.js and npm from the official website: 
 Node.js Download.  
-Verify the installation by running node -v and npm -v in your terminal/command prompt.  
+Verify the installation by running `node -v` and `npm -v` in your terminal/command prompt.  
 2.Choose a Game Framework:  Select a game development framework or library. 
 Some popular options include:  Phaser.js  Three.js  Babylon.js  PixiJS  A-Frame for VR/AR games.  
 Initialize Your Project:  Create a new directory for your game project and navigate to it in your terminal/command prompt. 
