@@ -1,7 +1,7 @@
 # Intro_to_Node_JS.
 
 
-Table of Contents 
+## Table of Contents 
 Introduction to Node JS Node JS Libraries Client Side Game Development Assigning a Sprite Introduction-to-Node-JS  Node.js is a runtime environment that allows you to run JavaScript code on the server-side.
 In web development, JavaScript is primarily known as a language for front-end programming that runs in the browser.
 However, Node.js extends the use of JavaScript to the server-side, enabling developers to build scalable and efficient network applications.
