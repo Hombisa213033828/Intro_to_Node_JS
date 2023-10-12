@@ -13,8 +13,10 @@ In Node.js there is no such start-the-event-loop call.
 Node.js simply enters the event loop after executing the input script.  
 Node.js exits the event loop when there are no more callbacks to perform. 
 This behavior is like browser JavaScript — the event loop is hidden from the user. 
-HTTP is a first class citizen in Node.js, designed with streaming and low latency in mind.  
-JavaScript on the Server: Node.js allows you to use JavaScript for back-end development. 
+HTTP is a first class citizen in Node.js, designed with streaming and low latency in mind.
+
+### JavaScript on the Server: 
+Node.js allows you to use JavaScript for back-end development. 
 This means you can use the same language (JavaScript) for both front-end and back-end, which can lead to more consistent code and easier collaboration between front-end and back-end developers.  
 Event-Driven and Non-Blocking I/O: Node.js is designed to be event-driven, which means it can handle many concurrent connections without getting bogged down. 
 It uses an event loop to efficiently manage I/O operations in a non-blocking manner. 
