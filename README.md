@@ -18,10 +18,12 @@ HTTP is a first class citizen in Node.js, designed with streaming and low latenc
 ### JavaScript on the Server: 
 Node.js allows you to use JavaScript for back-end development. 
 This means you can use the same language (JavaScript) for both front-end and back-end, which can lead to more consistent code and easier collaboration between front-end and back-end developers.  
-Event-Driven and Non-Blocking I/O: Node.js is designed to be event-driven, which means it can handle many concurrent connections without getting bogged down. 
+### Event-Driven and Non-Blocking I/O: 
+Node.js is designed to be event-driven, which means it can handle many concurrent connections without getting bogged down. 
 It uses an event loop to efficiently manage I/O operations in a non-blocking manner. 
 This makes it particularly well-suited for applications with a large number of connections or real-time features.  
-V8 Engine: Node.js is built on the V8 JavaScript runtime, which is the same engine that powers Google Chrome. 
+### V8 Engine: 
+Node.js is built on the V8 JavaScript runtime, which is the same engine that powers Google Chrome. 
 This engine compiles JavaScript into native machine code, making it very fast.  
 NPM: Node.js comes with a package manager called npm (Node Package Manager), which allows you to easily install and manage third-party libraries and modules. 
 This extensive ecosystem of packages greatly accelerates development.  
